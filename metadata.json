@@ -1,0 +1,6 @@
+{
+  "name": "Планировщик задач",
+  "description": "Простой To-Do List с приоритетами и дедлайнами",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
